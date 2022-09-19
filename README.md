@@ -18,3 +18,12 @@ File to run:
 
 ## Additional Information
 
+Examples of results:
+
+![image](https://user-images.githubusercontent.com/113569606/190985639-24a76201-d5aa-445e-a039-4d848f28a530.png)
+![image](https://user-images.githubusercontent.com/113569606/190985581-fafad769-1f44-41dd-90b4-4b2a5c0d83b3.png)
+
+
+All results are in:
+
+        results/

@@ -12,7 +12,9 @@
 
 File to run:
 
-    /executor/executor.py 
+    /train/main.py 
+    or 
+    segmentation-synthetic-dataset.ipynb
 
 ## Additional Information
 
